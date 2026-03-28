@@ -6,9 +6,9 @@
 ## 🧑‍💻 Team Members
 | Name | Role | GitHub |
 |------|------|--------|
-| Sara Anam | Frontend | @username |
-| Tanu Singh | Backend | @username |
-| Tanu Verma | Backend | @username |
+| Sara Anam | Frontend and SCD | @Saraanam |
+| Tanu Singh | Smart Contract Developer | @awwmikasa |
+| Tanu Verma | Backend | @TanuuVerma |
 
 ## 💡 Problem Statement
 1) Biased & inconsistent decisions due to manager discretion
@@ -17,12 +17,12 @@
 4) Unclear recognition & career growth, impacting morale
 
 ## 🛠️ Tech Stack
-<!-- List the tools, frameworks, languages used -->
+Solana smart contract , MERN 
+
 
 ## 🔗 Links
-- **Live Demo:** [link]
-- **Video Demo:** [link](if applicable)
-- **Presentation (PPT/PDF):** [link]
+- **Live Demo:** [https://ketchups.lovable.app]
+- **Presentation (PPT/PDF):** [https://drive.google.com/file/d/1WJ7cQJCQSgQ-hd9b7dcwsFJUxrSv56t4/view?usp=drive_link]
 
 ## 📸 Screenshots
 <!-- Add screenshots or a GIF of your project -->
